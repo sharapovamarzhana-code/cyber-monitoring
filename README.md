@@ -1,0 +1,9 @@
+# Кибер-Мониторинг
+Учебный проект дисциплины
+«Системы Linux и технологии DevOps».
+
+- Fedora Linux
+- Nginx
+- PHP
+- MySQL
+- Git
